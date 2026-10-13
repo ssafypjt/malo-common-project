@@ -342,4 +342,4 @@ AI가 포트폴리오와 전략을 설명할 때 표, 목록, 코드와 링크�
 
 ## NEXT STEP
 
-다음 단계에서는 DSL v0.2를 기준으로 보조지표(RSI·MACD 등)와 수급(investor-trading) 데이터를 전략 조건으로 확장할 예정입니다. RSI_BAND 카드는 구현을 완료했으며, 나머지 후보와 선정 근거는 [decisions.md](docs/decisions.md)의 로드맵 항목에서 확인할 수 있습니다.
+다음 단계에서는 DSL v0.2를 기준으로 보조지표(RSI·MACD 등)와 수급(investor-trading) 데이터를 전략 조건으로 확장할 예정입니다. RSI_BAND 카드는 구현을 완료했으며, 검증 가능한 지표부터 전략 카드로 순차 확장할 계획입니다.
